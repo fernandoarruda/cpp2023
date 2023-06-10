@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    std::cout <<"anything";
+    std::cout <<"I like this program";
 
     return 0;
 }
